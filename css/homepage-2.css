@@ -21,7 +21,7 @@
 	.bg-red{background-color: #272324;}
 	.bottom-footer .copyright a.theme-col{color: #77c720;}
 	.footer-part .social-icon i:hover{background-color: #ff6d0d!important;}
-	
+
 	/*our-activity-part*/
 	.our-activity-part .activity-img-bg{background-color: #77c720;border-radius: 50%;height: 110px;width: 110px;border: 6px solid #bbe38f;margin: 0 auto;padding-top: 20px;}
 	.our-activity-part .activity-img-bg:hover{transform: rotateY(180deg);}
@@ -81,7 +81,7 @@
 	.upcoming-event-section .upcoming-event-detail .upcoming-p{color: #999;line-height: 26px;}
 	.upcoming-event-section .upcoming-event-detail .event-readmore{background-color: #77c720;padding: 16px 28px;color: #fff!important;display: inline-block;}
 	.upcoming-event-section img{max-width: 960px;width: auto!important;height: 100%;}
-	
+
 	.slider-width{overflow: unset!important;}
 	.slider-width .owl-stage-outer{position: relative;overflow: hidden;}
 	.brand-part .slider-width .owl-nav{display: none!important;}
@@ -94,7 +94,7 @@
 }
 @media (min-width: 1400px) and (max-width: 1600px){
 	.banner2-detail{padding-top: 300px;}
-}	
+}
 @media (min-width: 992px) and (max-width: 1200px){
 	.header.bg-none{padding: 0 15px!important;}
 	.ml-30{margin-left: 20px;}
